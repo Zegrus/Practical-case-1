@@ -1,0 +1,44 @@
+* {
+    background-color: rgb(240, 229, 229);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hat {
+        text-align: right;
+        margin-right: 5%;
+}
+
+.head {
+      text-align: right;
+      font-size: 12px;
+      margin-right: 5%;
+}
+
+.letter1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;   
+}
+
+.opacity_1 {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.opacity_2 {
+    color: rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
+
+
+
+
+

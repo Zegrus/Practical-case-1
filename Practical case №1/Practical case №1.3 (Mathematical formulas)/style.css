@@ -1,0 +1,67 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+.letter {
+         color: #800000;   
+}
+
+.pos_1 {
+    text-align: center;
+}
+
+.form_1 {
+        height: 18px;
+        font-size: 18px;
+        background-color: #F08080;               
+}
+
+.pos_2 {
+    text-align: center;
+}
+
+.form_2 {
+        font-size: 18px;
+        background-color: #F08080;
+}
+
+
+
+.formula_1 {
+            width: 4.5em;
+            background-color: #F08080;
+            
+}
+
+.formula_2 {
+            width: 8em;
+            background-color: #F08080;
+}
+
+.formula_3 {
+            width: 5em;
+            background-color: #F08080;
+}
+
+.formula_4 {
+            width: 7em;
+            background-color: #F08080;
+}
+
+.formula_5 {
+            width: 7em;
+            background-color: #F08080;
+}
+
+.formula_6 {
+            width: 14em;
+            background-color: #F08080;
+}
